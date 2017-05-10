@@ -1,0 +1,45 @@
+*{
+	font-family: 'Space Mono', monospace;
+
+}
+body{
+	background-image: url(../img/background.jpg);
+	
+}
+
+body > div > h1{
+	color: darkorange;
+	font-size: 44px;
+	margin: 55px auto;
+
+}
+#p{
+	font-size: 46px;
+	color: magenta;
+}
+/**/
+#pSize{
+	font-size: 30px;
+	color: wheat;
+}
+/*color of information*/
+#info{ font-size: 18px;
+	color: wheat;
+	margin: 15px;
+}
+
+/*button size*/
+#button{
+	margin: 15px;
+	border-radius: 20px;
+}
+/*size of the planet*/
+#planetImg{
+	height: 350px;
+	width: 350;
+	margin: 15px;
+}
+#pInput{
+	border-radius: 10px;
+	margin-bottom: 15px; 
+}
